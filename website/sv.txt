@@ -4766,6 +4766,10 @@ translation=Månatlig
 original=Need help?
 translation=Behöver du hjälp?
 
+[shared.no_results]
+original=No results
+translation=Inga resultat
+
 [shared.proceed_to_payment]
 original=Proceed to payment
 translation=Fortsätt till betalning
@@ -4797,6 +4801,10 @@ translation=Radering lyckades
 [shared.successfully_updated]
 original=Successfully updated
 translation=Uppdatering lyckades
+
+[shared.switch_language]
+original=Switch language...
+translation=Byt språk...
 
 [shared.total]
 original=Total
@@ -4890,6 +4898,10 @@ translation=Nästa sida\\ →
 original=Next release
 translation=Nästa version
 
+[ui.no_results]
+original=No results
+translation=Inga resultat
+
 [ui.obsidian_blog]
 original=Obsidian Blog
 translation=Obsidian-bloggen
@@ -4950,6 +4962,10 @@ translation=Registrera dig
 original=Summary
 translation=Sammanfattning
 
+[ui.switch_language]
+original=Switch language...
+translation=Byt språk...
+
 [ui.use_cases]
 original=Use cases
 translation=Användningsfall
@@ -4965,3 +4981,4 @@ translation=Årlig
 [ui.yearly_billing]
 original=Yearly
 translation=Årlig
+

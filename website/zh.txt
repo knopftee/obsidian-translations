@@ -4766,6 +4766,10 @@ translation=按月
 original=Need help?
 translation=需要帮助？
 
+[shared.no_results]
+original=No results
+translation=无结果
+
 [shared.proceed_to_payment]
 original=Proceed to payment
 translation=继续付款
@@ -4797,6 +4801,10 @@ translation=删除成功
 [shared.successfully_updated]
 original=Successfully updated
 translation=更新成功
+
+[shared.switch_language]
+original=Switch language...
+translation=切换语言...
 
 [shared.total]
 original=Total
@@ -4890,6 +4898,10 @@ translation=下一页→
 original=Next release
 translation=更新一版本
 
+[ui.no_results]
+original=No results
+translation=无结果
+
 [ui.obsidian_blog]
 original=Obsidian Blog
 translation=Obsidian 博客
@@ -4950,6 +4962,10 @@ translation=注册
 original=Summary
 translation=摘要
 
+[ui.switch_language]
+original=Switch language...
+translation=切换语言...
+
 [ui.use_cases]
 original=Use cases
 translation=使用场景
@@ -4965,3 +4981,4 @@ translation=年付
 [ui.yearly_billing]
 original=Yearly
 translation=按年支付
+

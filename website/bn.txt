@@ -4766,6 +4766,10 @@ translation=মাসিক
 original=Need help?
 translation=সহায়তা দরকার?
 
+[shared.no_results]
+original=No results
+translation=কোনও ফলাফল\u00a0নেই
+
 [shared.proceed_to_payment]
 original=Proceed to payment
 translation=পেমেন্টে এগিয়ে যান
@@ -4797,6 +4801,10 @@ translation=সফলভাবে মুছে ফেলা হয়েছে
 [shared.successfully_updated]
 original=Successfully updated
 translation=সফলভাবে আপডেট হয়েছে
+
+[shared.switch_language]
+original=Switch language...
+translation=ভাষা পরিবর্তন\u00a0করুন...
 
 [shared.total]
 original=Total
@@ -4890,6 +4898,10 @@ translation=পরবর্তী\u00a0পৃষ্ঠা\u00a0→
 original=Next release
 translation=পরবর্তী রিলিজ
 
+[ui.no_results]
+original=No results
+translation=কোনও ফলাফল\u00a0নেই
+
 [ui.obsidian_blog]
 original=Obsidian Blog
 translation=Obsidian ব্লগ
@@ -4950,6 +4962,10 @@ translation=সাইন আপ
 original=Summary
 translation=সারসংক্ষেপ
 
+[ui.switch_language]
+original=Switch language...
+translation=ভাষা পরিবর্তন\u00a0করুন...
+
 [ui.use_cases]
 original=Use cases
 translation=ব্যবহারের ক্ষেত্র
@@ -4965,3 +4981,4 @@ translation=বার্ষিক
 [ui.yearly_billing]
 original=Yearly
 translation=বার্ষিক
+

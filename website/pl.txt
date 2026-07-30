@@ -4766,6 +4766,10 @@ translation=Miesięcznie
 original=Need help?
 translation=Potrzebujesz pomocy?
 
+[shared.no_results]
+original=No results
+translation=Brak wyników
+
 [shared.proceed_to_payment]
 original=Proceed to payment
 translation=Przejdź do płatności
@@ -4797,6 +4801,10 @@ translation=Pomyślnie usunięto
 [shared.successfully_updated]
 original=Successfully updated
 translation=Pomyślnie zaktualizowano
+
+[shared.switch_language]
+original=Switch language...
+translation=Zmień język...
 
 [shared.total]
 original=Total
@@ -4890,6 +4898,10 @@ translation=Następna strona →
 original=Next release
 translation=Następne wydanie
 
+[ui.no_results]
+original=No results
+translation=Brak wyników
+
 [ui.obsidian_blog]
 original=Obsidian Blog
 translation=Blog Obsidian
@@ -4950,6 +4962,10 @@ translation=Zarejestruj się
 original=Summary
 translation=Podsumowanie
 
+[ui.switch_language]
+original=Switch language...
+translation=Zmień język...
+
 [ui.use_cases]
 original=Use cases
 translation=Zastosowania
@@ -4965,3 +4981,4 @@ translation=Rocznie
 [ui.yearly_billing]
 original=Yearly
 translation=Rocznie
+

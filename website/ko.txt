@@ -4766,6 +4766,10 @@ translation=월간
 original=Need help?
 translation=도움이 필요하신가요?
 
+[shared.no_results]
+original=No results
+translation=결과 없음
+
 [shared.proceed_to_payment]
 original=Proceed to payment
 translation=결제 진행
@@ -4797,6 +4801,10 @@ translation=성공적으로 삭제됨
 [shared.successfully_updated]
 original=Successfully updated
 translation=성공적으로 업데이트됨
+
+[shared.switch_language]
+original=Switch language...
+translation=언어 전환...
 
 [shared.total]
 original=Total
@@ -4890,6 +4898,10 @@ translation=다음\u00a0페이지\u00a0→
 original=Next release
 translation=다음 릴리스
 
+[ui.no_results]
+original=No results
+translation=결과 없음
+
 [ui.obsidian_blog]
 original=Obsidian Blog
 translation=Obsidian 블로그
@@ -4950,6 +4962,10 @@ translation=가입하기
 original=Summary
 translation=요약
 
+[ui.switch_language]
+original=Switch language...
+translation=언어 전환...
+
 [ui.use_cases]
 original=Use cases
 translation=사용 사례
@@ -4965,3 +4981,4 @@ translation=연간
 [ui.yearly_billing]
 original=Yearly
 translation=연간
+
