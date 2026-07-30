@@ -4207,8 +4207,8 @@ original=Optional licenses help support the independent development of Obsidian.
 translation=Des licences optionnelles soutiennent le développement indépendant d’Obsidian.
 
 [pages.pricing.vip]
-original=VIP channel
-translation=Canal VIP
+original=Exclusive channels
+translation=Canaux exclusifs
 
 [pages.publish.accessible]
 original=Accessible by default
@@ -4965,4 +4965,3 @@ translation=Annuel
 [ui.yearly_billing]
 original=Yearly
 translation=Annuel
-

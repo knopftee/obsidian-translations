@@ -4207,7 +4207,7 @@ original=Optional licenses help support the independent development of Obsidian.
 translation=
 
 [pages.pricing.vip]
-original=VIP channel
+original=Exclusive channels
 translation=
 
 [pages.publish.accessible]

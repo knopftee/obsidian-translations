@@ -208,7 +208,7 @@ translation=কিছু নির্দিষ্ট অঞ্চলে Obsidian
 
 [account.billing.tax_learn_more]
 original=Learn\u00a0more
-translation=আরও\u00aজানুন
+translation=আরও\\u00aজানুন
 
 [account.billing.tax_location]
 original=Location
@@ -4207,8 +4207,8 @@ original=Optional licenses help support the independent development of Obsidian.
 translation=ঐচ্ছিক লাইসেন্সগুলো Obsidian-এর স্বাধীন ডেভেলোপমেন্টকে সমর্থন করে।
 
 [pages.pricing.vip]
-original=VIP channel
-translation=VIP চ্যানেল
+original=Exclusive channels
+translation=এক্সক্লুসিভ চ্যানেল
 
 [pages.publish.accessible]
 original=Accessible by default

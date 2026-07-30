@@ -4207,8 +4207,8 @@ original=Optional licenses help support the independent development of Obsidian.
 translation=Valfria licenser hjälper till att stödja den oberoende utvecklingen av Obsidian.
 
 [pages.pricing.vip]
-original=VIP channel
-translation=VIP-kanal
+original=Exclusive channels
+translation=Exklusiva kanaler
 
 [pages.publish.accessible]
 original=Accessible by default
@@ -4884,7 +4884,7 @@ translation=Fler webbläsare
 
 [ui.next_page]
 original=Next\u00a0page\u00a0→
-translation=Nästa sida\ →
+translation=Nästa sida\\ →
 
 [ui.next_release]
 original=Next release
