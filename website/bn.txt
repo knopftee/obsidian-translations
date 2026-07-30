@@ -208,7 +208,7 @@ translation=কিছু নির্দিষ্ট অঞ্চলে Obsidian
 
 [account.billing.tax_learn_more]
 original=Learn\u00a0more
-translation=আরও\\u00aজানুন
+translation=আরও\u00a0জানুন
 
 [account.billing.tax_location]
 original=Location
